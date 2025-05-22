@@ -1,0 +1,3 @@
+Step 1 > setup Kubernetes
+step 2 > vi test.yaml
+step 3 > kubectl apply -f test.yaml
